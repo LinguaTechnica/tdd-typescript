@@ -1,0 +1,50 @@
+# Config.yaml specifies the content and ordering within a repo for a curriculum block
+
+# Supported Fields
+# ==========================
+# Standards -- (Standards = Units). A list of Units for a block
+# Standard.Title: string -- The Unit title that shows up on the curriculum overview
+# Standard.UID: string -- A unique ID for the Unit. Use `cmd/ctrl+option/alt+u` to generate (runs once per cursor/selection)
+# Standard.Description: string -- The Unit description that shows up on the curriculum overview
+# Standard.SuccessCriteria: list -- An array of success criteria that can be viewed when scoring the checkpoint in a Unit.
+# Standard.ContentFiles: list -- A list of Lessons and (optional) Checkpoints in a Unit.
+# Standard.ContentFiles.Type: Lesson | Checkpoint -- The type of the current content file.
+# Standard.ContentFiles.UID: string -- A unique ID for the Unit. Use `cmd/ctrl+option/alt+u` to generate (runs once per cursor/selection)
+# Standard.ContentFiles.Path: string -- The absolute path to the Lesson, starting with `/`. Use `cmd/ctrl+option/alt+p` to generate
+# Standard.ContentFiles.DefaultVisibility: hidden -- (optional) Set to 'hidden' to hide when a course first starts.
+# Standard.ContentFiles.Autoscore: boolean -- (optional, for Checkpoints only) submit checkpoint scores without review
+# Standard.ContentFiles.MaxCheckpointSubmissions: number -- (optional, for Checkpoints only) limit the number of submissions
+
+# Related Snippets
+# ==========================
+# `unityaml`: add a Unit
+# `lessonyaml`: add a lesson
+# Note: Be sure to place the cursor at the appropriate indentation level before running either of these.
+
+# All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
+Standards:
+  - Title: Sample Unit
+    UID: f3a2e29b-def9-4143-a0c5-5df53fb44b48
+    Description: Description of Sample Unit
+    SuccessCriteria:
+      - Unit has a config.yaml
+      - Unit has a lesson
+      - Unit has a checkpoint
+    ContentFiles:
+      - Type: Instructor
+        UID: b9646a9f-870d-4c7b-8362-c40c724b5f11
+        Path: /units/00-sample-unit/00-readme.md
+      - Type: Instructor
+        UID: e77a9b20-ee5e-4681-b45a-8928fdfbec97
+        Path: /units/00-sample-unit/lesson-plans/sample-lesson-plan.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 29acb266-83ca-4a74-9d61-00634b636533
+        Path: /units/00-sample-unit/01-vocabulary
+      - Type: Lesson
+        UID: e96435e9-e56d-4fab-b573-1e219dab38eb
+        Path: /units/00-sample-unit/02-unit-overview.md
+      - Type: Checkpoint
+        UID: 393676ec-cf70-486a-8560-eb1f20464cf3
+        Path: /checkpoints/sample-lesson-checkpoint.md
+        Autoscore: true

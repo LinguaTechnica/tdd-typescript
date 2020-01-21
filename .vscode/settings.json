@@ -1,0 +1,29 @@
+{
+  "[markdown]": {
+    "editor.snippetSuggestions": "top",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    }
+  },
+  "[yaml]": {
+    "editor.snippetSuggestions": "top",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    }
+  },
+  "gmark.exclude_from_path": [
+    ".vscode",
+    ".git",
+    ".gitignore",
+    "CHANGELOG.md",
+    "config.yaml",
+    "CONTRIBUTING.md",
+    "node_modules",
+    "package.json",
+    "package-lock.json"
+  ]
+}
