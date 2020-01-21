@@ -2,7 +2,7 @@
 
 ## Learn
 
-This repo is deployed as a Learn block [here]().
+This repo is deployed as a Learn block [here](https://learn-2.galvanize.com/blocks/519).
 
 ## Prerequisites
 
