@@ -2,15 +2,13 @@
 
 ## Learning Objectives
 
-By the end of this lesson you will have:
+In this unit you will:
 
-- done stuff
-- explained stuff
-- been awesome
-
-You'll know you're ready to move on when you can complete this lesson's [checkpoint]().
-
-<!-- Add the link to this unit's checkpoint -->
+- Explain why TDD adherents write tests
+- Describe the three stages of the TDD process
+- Identify pure and impure functions
+ 
+You'll know you're ready to move on when you can complete this lesson's [checkpoint](../../checkpoints/javascript-tdd-checkpoint.md).
 
 ### !instructor
 
@@ -25,3 +23,6 @@ This section should contain a high level overview of all of the content that stu
 ## Check for Understanding
 
 A check for understanding should happen at the end of this reading so that students have a chance to reflect on the content they have seen - this is not a replacement for a checkpoint.
+
+
+
