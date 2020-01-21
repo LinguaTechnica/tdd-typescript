@@ -16,7 +16,7 @@ Before releasing this block to students, they should have completed:
 
 ### General Resources
 
-- [Slides](../../assets/javascript-tdd.key)
+- [Slides](https://github.com/gSchool/javascript-tdd-ent-block/blob/master/assets/javascript-tdd.key?raw=true) (download)
 
 <!-- Link any readings, documentation, slides etc. here.  -->
 
