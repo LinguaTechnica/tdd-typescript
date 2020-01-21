@@ -25,3 +25,31 @@ Standards:
         UID: 25b0ea4a-1fe9-44a4-b7e3-569d1382eb73
         Path: /checkpoints/javascript-tdd-checkpoint.md
         Autoscore: false
+  - Title: Mocking in JavaScript
+    UID: a53d3c40-4f5e-43ba-b2a0-c0ac189245ec
+    Description: Mocking data and objects in your JavaScript tests.
+    SuccessCriteria:
+      - Explain why TDD adherents write tests
+      - Describe the three stages of the TDD process
+      - Identify pure and impure functions
+    ContentFiles:
+      - Type: Instructor
+        UID: b59f74f6-6251-4b56-80b4-3479b7c2abf6
+        Path: /units/01-javascript-mocking/00-readme.md
+      - Type: Instructor
+        UID: 4fd3bd55-0d1d-45b5-ae11-6dbacd662e7f
+        Path: /units/01-javascript-mocking/lesson-plans/usaa-lesson-plan.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: f2e410ed-2f09-4e90-9779-01f55c1c54a7
+        Path: /units/01-javascript-mocking/01-unit-overview.md
+      - Type: Lesson
+        UID: af7f1960-7732-4fb4-aca2-6496ecea5a5c
+        Path: /units/01-javascript-mocking/02-vocabulary.md
+      - Type: Lesson
+        UID: d00cc20c-ad60-4d56-b3c3-217c4990c95b
+        Path: /units/01-javascript-mocking/03-exercise.md
+      - Type: Checkpoint
+        UID: dc840f34-45c5-43e3-9969-cfbf9cb8064b
+        Path: /checkpoints/javascript-mocking-checkpoint.md
+        Autoscore: false
