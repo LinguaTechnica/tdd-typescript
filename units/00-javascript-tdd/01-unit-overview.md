@@ -4,9 +4,8 @@
 
 In this unit you will:
 
-- Explain why TDD adherents write tests
-- Describe the three stages of the TDD process
-- Identify pure and impure functions
+- Identify JavaScript testing libraries
+- Create a vending machine using TDD
  
 You'll know you're ready to move on when you can complete this lesson's [checkpoint](../../checkpoints/javascript-tdd-checkpoint.md).
 

@@ -11,6 +11,10 @@ Before releasing this block to students, they should have completed:
 - Javascript
 - Git
 
+Before releasing this block to students, they should understand:
+
+- Test Driven Development
+
 ---
 
 ## Block Structure, Lesson Dependencies, & Lesson Statuses

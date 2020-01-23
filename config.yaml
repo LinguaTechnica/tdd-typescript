@@ -4,9 +4,8 @@ Standards:
     UID: 784ff209-114b-48b5-bf63-f937ed88ea1d
     Description: Getting started with TDD in JavaScript.
     SuccessCriteria:
-      - Explain why TDD adherents write tests
-      - Describe the three stages of the TDD process
-      - Identify pure and impure functions
+      - Identify JavaScript testing libraries
+      - Create a vending machine using TDD
     ContentFiles:
       - Type: Instructor
         UID: 78c10303-76e3-4920-9bf1-006326bc1523

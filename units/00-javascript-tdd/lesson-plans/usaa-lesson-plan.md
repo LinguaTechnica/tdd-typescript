@@ -2,17 +2,6 @@
 
 This lesson plan can be used when teaching this unit to USAA cohorts.
 
-## Prerequisites
-
-- Javascript
-- Git
-
-## Objectives
-
-- Explain why TDD adherents write tests
-- Describe the three stages of the TDD process
-- Identify pure and impure functions
-
 ## Introduction
 
 XP emphasizes baby steps and feedback loops

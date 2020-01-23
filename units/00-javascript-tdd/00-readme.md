@@ -2,12 +2,6 @@
 
 ## Prerequisites
 
-Before releasing this block to students, they should have completed:
-
-- Javascript
-- Git
-
-
 ## Lesson Plans
 
 [USAA Lesson Plan](lesson-plans/usaa-lesson-plan.md)
