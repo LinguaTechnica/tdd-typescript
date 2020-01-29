@@ -19,5 +19,3 @@
 * Integration Test: The purpose of this of integration testing is to expose faults in the interaction between integrated units. This could be as simple as two objects interacting with each other or as complex as testing multiple systems together.
 
 * End-to-End (E2E) Testing: The process of testing an entire system flow, including external resource usage. The name comes from the process of testing software from back to front or start to finish. For example: creating a test where a button is clicked and the software is allowed to go through the entire process for that button click. This could include making external requests, creating elements, rendering results, etc. The test in this can would verify the ending state of the page is correct. A high level test that verifies the entire flow of the button click action.
-
-* Mock: Faking an object, piece of data, or process needed for a test. For example: providing a static JSON object to a test instead of making an external request for the data.

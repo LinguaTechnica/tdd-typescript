@@ -13,7 +13,7 @@ Before releasing this block to students, they should have completed:
 
 Before releasing this block to students, they should understand:
 
-- Test Driven Development
+- Speak to each of the stages in red, green, refactor
 
 ---
 
