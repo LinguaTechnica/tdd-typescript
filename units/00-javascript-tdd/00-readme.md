@@ -2,6 +2,10 @@
 
 ## Prerequisites
 
+Before releasing this block to students, they should have completed:
+
+- Test-Driven Development
+
 ## Lesson Plans
 
 [USAA Lesson Plan](lesson-plans/usaa-lesson-plan.md)
