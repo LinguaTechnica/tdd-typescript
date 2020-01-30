@@ -5,7 +5,10 @@
 In this unit you will:
 
 - Identify JavaScript testing libraries
-- Create a vending machine using TDD
+- Identify the structure of a test suite within the JavaScript ecosystem
+- Utilize asserts to determine validity of code states
+- Run multiple tests in series and parallel
+- Run an asynchronous test
  
 You'll know you're ready to move on when you can complete this lesson's [checkpoint](../../checkpoints/javascript-tdd-checkpoint.md).
 
