@@ -28,9 +28,9 @@ Standards:
     UID: a53d3c40-4f5e-43ba-b2a0-c0ac189245ec
     Description: Mocking data and objects in your JavaScript tests.
     SuccessCriteria:
-      - Explain why TDD adherents write tests
-      - Describe the three stages of the TDD process
-      - Identify pure and impure functions
+      - Mock functions using jest
+      - Mock API calls using jest
+      - Inject test mocks using constructor injection
     ContentFiles:
       - Type: Instructor
         UID: b59f74f6-6251-4b56-80b4-3479b7c2abf6
