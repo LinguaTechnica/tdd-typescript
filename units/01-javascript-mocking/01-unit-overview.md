@@ -4,8 +4,8 @@
 
 In this unit you will:
 
-- Identify pure and impure functions
-- Write tests using jest mocks
+- Mock functions using jest
+- Mock API calls using jest
 - Inject test mocks using constructor injection
  
 You'll know you're ready to move on when you can complete this lesson's [checkpoint](../../checkpoints/javascript-mocking-checkpoint.md).
