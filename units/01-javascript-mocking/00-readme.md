@@ -2,9 +2,9 @@
 
 ## Prerequisites
 
-Before releasing this unit to students, they should understand:
+Before releasing this block to students, they should have completed:
 
-- How to TDD pure functions in JS
+- JavaScript Testing (TDD)
 
 ## Lesson Plans
 
