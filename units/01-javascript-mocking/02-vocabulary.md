@@ -4,7 +4,7 @@
 
 - **Mock (verb):** The act of using a mocked object to fill a requirement in a test.
 
-- **Stub:** A simple mock that just holds static needed for some operation. Stubs are most often used to mock calls to a database or API.
+- **Stub:** A simple mock that holds static data (JSON) needed for some operation. Stubs are most often used when mocking calls to a database or API.
 
 - **Spy:** A mocked function that allows tracking of the calls to that function, such as number of calls and the arguments passed with calls.
 
