@@ -4,45 +4,39 @@
 
 ### !challenge
 
-* type: short-answer
+* type: multiple-choice
 * id: be12d956-1566-479c-bfa0-19e5a2f58348
 * title: Mocking in Javascript
-<!--Other optional fields (checkpoints only) -->
-<!--`points: 1`: the number of points for scoring as a checkpoint-->
-<!--`topics: python, pandas`: the topics for analyzing points-->
 
 ##### !question
 
-How well do you know the material from this lesson?
-
-Answer with one of the following--
-
-* `I got it`
-* `More practice, please`
-* `I need some help!`
+1. How well do you know the material from this lesson?
 
 ##### !end-question
 
+##### !options
+
+* I got it!
+* More practice please!
+* I need some help!
+
+##### !end-options
+
 ##### !answer
 
-/.+/
+ I got it!
 
 ##### !end-answer
 
 ### !end-challenge
 
-<!--END CHALLENGE-->
-
-<!--BEGIN CHALLENGE-->
+<!-- BEGIN Dependency Injection -->
 
 ### !challenge
 
-* type: short-answer
+* type: paragraph
 * id: b2d22236-7475-4a87-95c2-8e0f1543dd5c
-* title: Mocking in Javascript
-<!--Other optional fields (checkpoints only) -->
-<!--`points: 1`: the number of points for scoring as a checkpoint-->
-<!--`topics: python, pandas`: the topics for analyzing points-->
+* title: Dependency Injection
 
 ##### !question
 
@@ -50,107 +44,102 @@ Name two reasons to use dependency injection?
 
 ##### !end-question
 
-##### !answer
+##### !placeholder
 
-/.+/
+your answer
 
-##### !end-answer
-
-### !end-challenge
-
-<!--END CHALLENGE-->
-
-<!--BEGIN CHALLENGE-->
-
-### !challenge
-
-* type: short-answer
-* id: 1c3002b7-3b29-4db6-b292-d6872d4aa1d5
-* title: Mocking in Javascript
-<!--Other optional fields (checkpoints only) -->
-<!--`points: 1`: the number of points for scoring as a checkpoint-->
-<!--`topics: python, pandas`: the topics for analyzing points-->
-
-##### !question
-
-What is a stub used for?
-
-##### !end-question
-
-##### !answer
-
-/.+/
-
-##### !end-answer
+##### !end-placeholder
 
 ### !end-challenge
 
-<!--END CHALLENGE-->
-
-<!--BEGIN CHALLENGE-->
-
-### !challenge
-
-* type: short-answer
-* id: 2cf15a33-c3da-4b1d-8b6a-a037edae1754
-* title: Mocking in Javascript
-<!--Other optional fields (checkpoints only) -->
-<!--`points: 1`: the number of points for scoring as a checkpoint-->
-<!--`topics: python, pandas`: the topics for analyzing points-->
-
-##### !question
-
-What is a spy used for?
-
-##### !end-question
-
-##### !answer
-
-/.+/
-
-##### !end-answer
-
-### !end-challenge
-
-<!--END CHALLENGE-->
-
-<!--BEGIN CHALLENGE-->
-
-### !challenge
-
-* type: short-answer
-* id: 15d39684-6ec7-4ab2-9771-c0fa342c67c4
-* title: Mocking in Javascript
-<!--Other optional fields (checkpoints only) -->
-<!--`points: 1`: the number of points for scoring as a checkpoint-->
-<!--`topics: python, pandas`: the topics for analyzing points-->
-
-##### !question
-
-How likely are you to recommend today’s classroom experience to a friend or colleague? (0 = not at all likely, 10 = very likely)
-
-##### !end-question
-
-##### !answer
-
-/.+/
-
-##### !end-answer
-
-### !end-challenge
-
-<!--END CHALLENGE-->
-
-<!--BEGIN CHALLENGE-->
+<!-- BEGIN Stubs -->
 
 ### !challenge
 
 * type: paragraph
-* id: aefc3974-e2d7-4a53-9b3e-0dd595087269
+* id: 1c3002b7-3b29-4db6-b292-d6872d4aa1d5
+* title: Stubs
+
+##### !question
+
+Why would I use a stub?
+
+##### !end-question
+
+##### !placeholder
+
+your answer
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- BEGIN Spies -->
+
+### !challenge
+
+* type: paragraph
+* id: 2cf15a33-c3da-4b1d-8b6a-a037edae1754
 * title: Mocking in Javascript
-<!--Other optional fields (checkpoints only) -->
-<!--`points: 1`: the number of points for scoring as a checkpoint-->
-<!--`topics: python, pandas`: the topics for analyzing points-->
+
+##### !question
+
+Why would I use a spy?
+
+##### !end-question
+
+##### !placeholder
+
+your answer
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- BEGIN Recommendation -->
+
+### !challenge
+
+* type: multiple-choice
+* id: bd31f191-f073-4c21-a19e-67389045d94f
+* title: Recommend
+
+##### !question
+
+How likely are you to recommend today’s classroom experience to a friend or colleague? (0 = not at all likely, 10 = very likely)
+##### !end-question
+
+##### !options
+
+* 0 (not at all likely)
+* 1
+* 2
+* 3
+* 4
+* 5
+* 6
+* 7
+* 8
+* 9
+* 10 (very likely)
+
+##### !end-options
+
+##### !answer
+
+10 (very likely)
+
+##### !end-answer
+
+### !end-challenge
+
+<!-- BEGIN Feedback -->
+
+### !challenge
+
+* type: paragraph
+* id: f87d1885-57a9-46b5-8a97-336b9d67b7ce
+* title: Improvements
 
 ##### !question
 
@@ -158,6 +147,10 @@ Please provide a specific and actionable change that might improve the classroom
 
 ##### !end-question
 
-### !end-challenge
+##### !placeholder
 
-<!--END CHALLENGE-->
+your answer
+
+##### !end-placeholder
+
+### !end-challenge
