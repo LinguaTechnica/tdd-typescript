@@ -62,7 +62,7 @@ your answer
 
 ##### !question
 
-Why would I use a stub?
+Give an example of a time you would use a stub.
 
 ##### !end-question
 
@@ -84,7 +84,7 @@ your answer
 
 ##### !question
 
-Why would I use a spy?
+Give an example of a time you would use a spy.
 
 ##### !end-question
 
