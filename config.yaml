@@ -1,32 +1,32 @@
-Title: JavaScript TDD
+Title: Typescript TDD
 Standards:
-  - Title: JavaScript TDD
+  - Title: Typescript TDD
     UID: 784ff209-114b-48b5-bf63-f937ed88ea1d
-    Description: Getting started with TDD in JavaScript.
+    Description: Getting started with TDD in Typescript.
     SuccessCriteria:
-      - Identify JavaScript testing libraries
+      - Identify typescript testing libraries
       - Create a vending machine using TDD
     ContentFiles:
       - Type: Instructor
         UID: 78c10303-76e3-4920-9bf1-006326bc1523
-        Path: /units/00-javascript-tdd/00-readme.md
+        Path: /units/00-intro/00-readme.md
       - Type: Instructor
         UID: 3610142d-7b76-4dc2-8462-70eccb24c8e4
-        Path: /units/00-javascript-tdd/lesson-plans/usaa-lesson-plan.md
+        Path: /units/00-intro/lesson-plans/lesson-plan.md
         DefaultVisibility: hidden
       - Type: Lesson
         UID: f96bf6c9-2a78-4860-8211-1b1b50cd9769
-        Path: /units/00-javascript-tdd/01-unit-overview.md
+        Path: /units/00-intro/01-unit-overview.md
       - Type: Lesson
         UID: 02892209-488b-4f12-841a-2991278c30a6
-        Path: /units/00-javascript-tdd/02-vocabulary.md
+        Path: /units/00-intro/02-vocabulary.md
       - Type: Checkpoint
         UID: 25b0ea4a-1fe9-44a4-b7e3-569d1382eb73
-        Path: /checkpoints/javascript-tdd-checkpoint.md
+        Path: /checkpoints/tdd.checkpoint.md
         Autoscore: false
-  - Title: Mocking in JavaScript
+  - Title: Mocking in typescript
     UID: a53d3c40-4f5e-43ba-b2a0-c0ac189245ec
-    Description: Mocking data and objects in your JavaScript tests.
+    Description: Mocking data and objects in your typescript tests.
     SuccessCriteria:
       - Mock functions using jest
       - Mock API calls using jest
@@ -34,21 +34,21 @@ Standards:
     ContentFiles:
       - Type: Instructor
         UID: b59f74f6-6251-4b56-80b4-3479b7c2abf6
-        Path: /units/01-javascript-mocking/00-readme.md
+        Path: /units/01-mocking/00-readme.md
       - Type: Instructor
         UID: 4fd3bd55-0d1d-45b5-ae11-6dbacd662e7f
-        Path: /units/01-javascript-mocking/lesson-plans/usaa-lesson-plan.md
+        Path: /units/01-mocking/lesson-plans/lesson-plan.md
         DefaultVisibility: hidden
       - Type: Lesson
         UID: f2e410ed-2f09-4e90-9779-01f55c1c54a7
-        Path: /units/01-javascript-mocking/01-unit-overview.md
+        Path: /units/01-mocking/01-unit-overview.md
       - Type: Lesson
         UID: af7f1960-7732-4fb4-aca2-6496ecea5a5c
-        Path: /units/01-javascript-mocking/02-vocabulary.md
+        Path: /units/01-mocking/02-vocabulary.md
       - Type: Lesson
         UID: d00cc20c-ad60-4d56-b3c3-217c4990c95b
-        Path: /units/01-javascript-mocking/03-exercise.md
+        Path: /units/01-mocking/03-exercise.md
       - Type: Checkpoint
         UID: dc840f34-45c5-43e3-9969-cfbf9cb8064b
-        Path: /checkpoints/javascript-mocking-checkpoint.md
+        Path: /checkpoints/mocking.checkpoint.md
         Autoscore: false
