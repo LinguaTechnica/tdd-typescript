@@ -1,44 +1,40 @@
-# Populatron
+# Mortgage Lender 
 
 <!--BEGIN CHALLENGE-->
 
 ### !challenge
 
 * type: project
-* id: 6c59d25d-4251-4123-9793-ec1026752429
-* title: Submit Your Work
+* id: 1f9cbc1c-1bc7-4a83-9209-a72f2fd9e46a
+* title: Submit Your Work 
 * points: 1
-* topics: typescript, testing
-<!--Other optional fields (checkpoints only) -->
-<!--`points: 1`: the number of points for scoring as a checkpoint-->
-<!--`topics: python, pandas`: the topics for analyzing points-->
+* topics: typscript, oop
 
 ##### !question
 
-Use your new knowledge of unit testing and mocking to build Populatron.
+Use your new knowledge of classes to build the Mortgage Lender application.
 
 ## Instructions
 
-1. Fork [this repository](https://github.com/gSchool/populatron-ts).
+1. Fork [this repository]().
 1. Share the repo with your group. Each person should submit the same link!
 1. Submit your work.
-
-<!--Your question text (can be regular **markdown**)-->
 
 ##### !end-question
 
 ##### !placeholder
 
-Link to your repo goes here.
+Link to your repo here!
 
 ##### !end-placeholder
 
 ##### !rubric
-
 See the [Language rubric in the Student Worksheet](https://docs.google.com/spreadsheets/d/1XMK4CVC7OFgpD8jvt6M85TiUF0-feOZcpDUU1QsFOoU/edit?usp=sharing) if scoring is being applied.
 
 Otherwise, a point is assigned for submitting the work. Instructors can review the code.
+
 ##### !end-rubric
+
 
 ### !end-challenge
 

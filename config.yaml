@@ -17,14 +17,16 @@ Standards:
       - Type: Lesson
         UID: f96bf6c9-2a78-4860-8211-1b1b50cd9769
         Path: /units/00-intro/01-unit-overview.md
+        DefaultVisibility: hidden
       - Type: Lesson
         UID: 02892209-488b-4f12-841a-2991278c30a6
         Path: /units/00-intro/02-vocabulary.md
+        DefaultVisibility: hidden
       - Type: Checkpoint
         UID: 25b0ea4a-1fe9-44a4-b7e3-569d1382eb73
         Path: /checkpoints/tdd.checkpoint.md
         Autoscore: false
-  - Title: Mocking in Tests
+  - Title: Mocking Tests
     UID: a53d3c40-4f5e-43ba-b2a0-c0ac189245ec
     Description: Mocking data and objects in your typescript tests.
     SuccessCriteria:
@@ -41,10 +43,39 @@ Standards:
       - Type: Lesson
         UID: f2e410ed-2f09-4e90-9779-01f55c1c54a7
         Path: /units/01-mocking/01-unit-overview.md
+        DefaultVisibility: hidden
       - Type: Lesson
         UID: af7f1960-7732-4fb4-aca2-6496ecea5a5c
         Path: /units/01-mocking/02-vocabulary.md
+        DefaultVisibility: hidden
       - Type: Checkpoint
         UID: dc840f34-45c5-43e3-9969-cfbf9cb8064b
         Path: /checkpoints/populatron.checkpoint.md
+        Autoscore: false
+  - Title: Object Oriented Programming
+    UID: ab05dce4-0586-4f9b-911a-75bd6a635ce8
+    Description: Fundamentals of OOP
+    SuccessCriteria:
+      - Build classes
+      - Use interfaces
+    ContentFiles:
+      - Type: Instructor
+        UID: ac0eede7-421a-481b-963d-d181fbbf3909
+        Path: /units/02-oop/00-readme.md
+        DefaultVisibility: hidden
+      - Type: Instructor
+        UID: 75bf0974-f871-4c6f-8363-1ee914a550c2
+        Path: /units/02-oop/lesson-plans/lesson-plan.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 7cdfafed-f428-4451-afc4-607fe17a99d7
+        Path: /units/02-oop/01-unit-overview.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 4c794ce6-b1fd-4890-be31-2ee02fc2d1d4
+        Path: /units/02-oop/02-vocabulary.md
+        DefaultVisibility: hidden
+      - Type: Checkpoint
+        UID: 021ae0e6-c2ab-4a06-962c-35bb6a6f8ea1
+        Path: /checkpoints/mortgageLender.checkpoint.md
         Autoscore: false
