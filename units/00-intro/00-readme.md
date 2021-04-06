@@ -10,10 +10,13 @@ The goal is to ensure learners can write basic typescript to use it for developi
 **XP Goals**
 - Test Cycle
 - Collaboration
+- Unit tests 
+- Mocking
 
 **Typescript Goals**
 - Static types 
 - Syntax 
+- Modules
 - Imports/exports
 
 ## Exercises

@@ -1,11 +1,11 @@
-Title: Typescript TDD
+Title: Typescript
 Standards:
-  - Title: Typescript TDD
+  - Title: Typescript
     UID: 784ff209-114b-48b5-bf63-f937ed88ea1d
-    Description: Getting started with TDD in Typescript.
+    Description: Getting started with testing in Typescript.
     SuccessCriteria:
-      - Identify typescript testing libraries
-      - Create a vending machine using TDD
+      - Understand Typescript fundamentals
+      - Use tests to solve simple problems
     ContentFiles:
       - Type: Instructor
         UID: 78c10303-76e3-4920-9bf1-006326bc1523
@@ -24,12 +24,11 @@ Standards:
         UID: 25b0ea4a-1fe9-44a4-b7e3-569d1382eb73
         Path: /checkpoints/tdd.checkpoint.md
         Autoscore: false
-  - Title: Mocking in typescript
+  - Title: Mocking in Tests
     UID: a53d3c40-4f5e-43ba-b2a0-c0ac189245ec
     Description: Mocking data and objects in your typescript tests.
     SuccessCriteria:
       - Mock functions using jest
-      - Mock API calls using jest
       - Inject test mocks using constructor injection
     ContentFiles:
       - Type: Instructor
@@ -45,10 +44,7 @@ Standards:
       - Type: Lesson
         UID: af7f1960-7732-4fb4-aca2-6496ecea5a5c
         Path: /units/01-mocking/02-vocabulary.md
-      - Type: Lesson
-        UID: d00cc20c-ad60-4d56-b3c3-217c4990c95b
-        Path: /units/01-mocking/03-exercise.md
       - Type: Checkpoint
         UID: dc840f34-45c5-43e3-9969-cfbf9cb8064b
-        Path: /checkpoints/mocking.checkpoint.md
+        Path: /checkpoints/populatron.checkpoint.md
         Autoscore: false
