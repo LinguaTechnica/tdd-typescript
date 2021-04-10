@@ -1,5 +1,24 @@
 Title: Typescript
 Standards:
+  - Title: CLI Tools
+    UID: 7248d1c6-8cb8-41d5-acb4-fdd096251138
+    Description: Get familiar with basic CLI tools
+    SuccessCriteria:
+      - Git
+      - Bash
+    ContentFiles:
+      - Type: Lesson
+        UID: 4507ceae-ccf2-4b0d-85ca-ec8dfc6b90ee
+        Path: /units/00-cli/01-unit-overview.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 7db464b1-3755-4fa9-b203-05b1db3acf68
+        Path: /units/00-cli/02-mystery.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: e66a92ce-8962-41e1-b6f6-6a6813a9bdb1
+        Path: /units/00-cli/03-cheatsheet.md
+        DefaultVisibility: hidden
   - Title: Typescript
     UID: 784ff209-114b-48b5-bf63-f937ed88ea1d
     Description: Getting started with testing in Typescript.
