@@ -1,6 +1,6 @@
 Title: Typescript
 Standards:
-  - Title: CLI Tools
+  - Title: CLI Primer
     UID: 7248d1c6-8cb8-41d5-acb4-fdd096251138
     Description: Get familiar with basic CLI tools
     SuccessCriteria:
@@ -45,9 +45,9 @@ Standards:
         UID: 25b0ea4a-1fe9-44a4-b7e3-569d1382eb73
         Path: /checkpoints/tdd.checkpoint.md
         Autoscore: false
-  - Title: Mocking Tests
+  - Title: Mocking and Test Fakes
     UID: a53d3c40-4f5e-43ba-b2a0-c0ac189245ec
-    Description: Mocking data and objects in your typescript tests.
+    Description: Setting up data and objects in your typescript tests.
     SuccessCriteria:
       - Mock functions using jest
       - Inject test mocks using constructor injection
