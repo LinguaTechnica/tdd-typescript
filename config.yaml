@@ -1,6 +1,6 @@
 Title: Typescript
 Standards:
-  - Title: Typescript
+  - Title: TDD Fundamentals
     UID: 784ff209-114b-48b5-bf63-f937ed88ea1d
     Description: Getting started with testing in Typescript.
     SuccessCriteria:
@@ -78,4 +78,21 @@ Standards:
       - Type: Checkpoint
         UID: 021ae0e6-c2ab-4a06-962c-35bb6a6f8ea1
         Path: /checkpoints/mortgageLender.checkpoint.md
+        Autoscore: false
+  - Title: Typescript Exercises 
+    UID: f9ae3522-2620-4809-ac3f-c0f8eee50ee0
+    Description: Exercises to practice your TS skills
+    SuccessCriteria:
+      - Get better!
+    ContentFiles:
+      # - Type: Lesson
+      #   UID: [unique-id (option-command-G from uuidgen plugin)]
+      #   Path: /folder/file.md
+      - Type: Lesson
+        UID: fa9f0ddc-1bfb-47a1-a873-d842ba187fb9
+        Path: /units/03-ts/01-unit-overview.md
+        DefaultVisibility: hidden
+      - Type: Checkpoint
+        UID: 0cee315a-4c6c-4234-b552-87fae5b3620a
+        Path: /checkpoints/vendingMachine.md
         Autoscore: false

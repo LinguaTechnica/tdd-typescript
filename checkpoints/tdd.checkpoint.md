@@ -29,7 +29,7 @@ Ali Snobba has given you the following criteria to determine completeness of you
 
 `Story: As a shopper, I want to have a shopping cart, so I can store items until I am ready to checkout.`
 
-1. Given that I a new shopper, when I begin shopping, then I expect my cart to be empty.
+1. Given that I'm new shopper, when I begin shopping, then I expect my cart to be empty.
 1. Given I have an empty cart, when I add an Item, then I expect the price to reflect the sum of all the Items in my cart.
 1. Given I have an empty cart, when I add items, then I expect it to see an itemized list of the items along with their price and quantity.
 1. Given I have cart with one item, when I add more of that item, then I expect to see its quantity updated on the itemized list.
