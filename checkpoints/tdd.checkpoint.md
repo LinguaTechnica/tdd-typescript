@@ -47,15 +47,18 @@ A coupon is an object that has an item name and a price. The price on a coupon i
 * Given I have multiple coupons, when any items match the coupon, then the coupon discounts can be applied multiple times to the same items.
 * Given I have a coupon for my cart, when no item matches the coupon, then the coupon discount is not applied.
 
-## Tips
+### Tips
 
 - Use [es6 getters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get) to simplify your task.
 - Use [es6 template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) instead of String concatenation
 - Use [map, filter, and reduce](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) to avoid looping
 
-## Resources
+### Resources
 
 - [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/2)
+
+## Submit Your Work 
+
 ##### !end-question
 
 ##### !placeholder
