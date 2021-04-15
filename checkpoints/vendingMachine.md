@@ -34,12 +34,12 @@ It's good practice to commit your code after each green test. Make sure you add 
 
 ### User Stories and Acceptance Criteria
 
-Below are a list of simple stories. Collaborate with your group to implement them as best you can.
+Below are a list of simple stories. Collaborate with your group to implement them as best you can. **Money is valued in Rupees (Rs)! NOT dollars ($)**
 
 As a customer, I want to see that the vending machine has items, so that I can purchase them.
 - Given that I approach the vending machine
 - when I look at it,
-- then I see items inside that I can buy along with their price:
+- then I see items inside that I can buy along with their price.
 
 As a customer, I want to know how much money I have deposited, so that I know what I can purchase.
 - Given I am using the vending machine, 
@@ -54,11 +54,11 @@ As a customer, I want to add additional money, so that I can use the denominatio
 
 As a customer, I want to see a message if my item is unavailable, so that I can make another choice.
 - Given I am using the vending machine, 
-- when I enter a code for an item that is unavailable, 
+- when I select an item that's unavailable, 
 - then I see a message that the item is unavailable.
 
 As a customer, I want to see a message if my deposit is insufficient, so that I know to add more money.
-- Given I have made a choice, 
+- Given I have made a selection, 
 - when I have not deposited enough money for that item, 
 - then I see a message telling me how much more to deposit.
 
@@ -76,6 +76,7 @@ As a customer, I want to know if the vending machine can make change, so that I 
 - Given I have deposited money and selected a choice, 
 - when the machine does not have correct change, 
 - then I see a message to choose again or cancel the transaction
+
 
 
 ## Submit Your Work 
