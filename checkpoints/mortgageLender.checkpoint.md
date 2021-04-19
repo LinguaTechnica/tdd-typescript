@@ -96,8 +96,8 @@ And the loan status is marked as expired
 * type: project
 * id: 1f9cbc1c-1bc7-4a83-9209-a72f2fd9e46a
 * title: Submit Your Work 
-* points: 1
-* topics: typscript, oop
+* points: 10
+* topics: typscript, tdd
 
 ##### !question
 
