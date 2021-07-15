@@ -1,40 +1,6 @@
-# Typescript XP
+# Instructor Notes 
 
-Please review the [Instructor Weekly Worksheet]() for additional details about this weeks lessons.
-- [Lesson Plan](lesson-plans/lesson-plan.md)
+See lesson plan for full details about this block. Resources: 
 
-## Overview
-
-The goal is to ensure learners can write basic typescript to use it for developing Angular applications. 
-
-**XP Goals**
-- Test Cycle
-- Collaboration
-- Unit tests 
-- Mocking
-
-**Typescript Goals**
-- Static types 
-- Syntax 
-- Modules
-- Imports/exports
-
-## Exercises
-
-Below are some recommended exercises to achieve this weeks goals. All of them rely on pair programming, where pairs are shuffled at least weekly.
-
-### Data Structures
-
-Tests are provided and learners must implement the code to make them pass. The primary goal is to practice pair programming by setting them in context and encouragin collaboration. As both are learning TDD, pair programming is a tool to help them learn it faster.
-
-### Shoppping Cart 
-
-Good ole shopping cart! This is the first opportunity to write their own tests. 
-
-### Vending Machine
-
-Offers a challenge slightly above Shopping Cart, but not by much. Can be used as a follow-up for more practice. 
-
-### Bowling Kata
-
-This can be done in 2 ways: tests provided as an additional collaboration challenge or as an exercise directly after a TDD lesson where the goals can be emphasized. 
+- [Shared Drive](https://drive.google.com/drive/folders/1ZoyAvd5DDTl1tEwy-TdLUiL6lHh-TcOb)
+- [Unit Planner](https://docs.google.com/document/d/1qQE8mM8axr5Pag7fwzf8KIbPhxBS_OnovQKbMlG4UtM/edit?usp=sharing)
