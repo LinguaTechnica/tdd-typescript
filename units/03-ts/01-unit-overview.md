@@ -2,7 +2,8 @@
 
 ## Learning Objectives
 
-In this unit you will practice:
+In this unit you will learn:
 
-- Test cycle (red green refactor)
-- Apply Typscript fundamentals: accessors, modifiers, objects
+- The DOM 
+- UI with HTML/CSS 
+- Typescript compilation and configuration (including bundling)

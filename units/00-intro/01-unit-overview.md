@@ -4,8 +4,8 @@
 
 In this unit you will:
 
-- Understand unit testing
-- Apply Typscript fundamentals: typing, modules, and import/export
+- Understand TDD
+- Apply Typscript fundamentals: static typing, modules, and import/export
 
 ## Overview
 

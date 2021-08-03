@@ -26,31 +26,26 @@ Standards:
         UID: 25b0ea4a-1fe9-44a4-b7e3-569d1382eb73
         Path: /checkpoints/tdd.checkpoint.md
         Autoscore: false
-  - Title: Mocking and Test Fakes
-    UID: a53d3c40-4f5e-43ba-b2a0-c0ac189245ec
-    Description: Setting up data and objects in your typescript tests.
+  - Title: Typescript Exercises 
+    UID: f9ae3522-2620-4809-ac3f-c0f8eee50ee0
+    Description: Exercises to practice your TS skills
     SuccessCriteria:
-      - Mock functions using jest
-      - Inject test mocks using constructor injection
+      - Understand web applications
     ContentFiles:
       - Type: Instructor
-        UID: b59f74f6-6251-4b56-80b4-3479b7c2abf6
-        Path: /units/01-mocking/00-readme.md
+        UID: f25b759f-1c82-4bd2-b583-df35cb406933
+        Path: /units/03-ts/00-readme.md
       - Type: Instructor
-        UID: 4fd3bd55-0d1d-45b5-ae11-6dbacd662e7f
-        Path: /units/01-mocking/lesson-plans/lesson-plan.md
+        UID: 3aae6c25-5b45-4e8e-9d3b-eae07d2d6b28
+        Path: /units/03-ts/lesson-plans/lesson-plan.md
         DefaultVisibility: hidden
       - Type: Lesson
-        UID: f2e410ed-2f09-4e90-9779-01f55c1c54a7
-        Path: /units/01-mocking/01-unit-overview.md
-        DefaultVisibility: hidden
-      - Type: Lesson
-        UID: af7f1960-7732-4fb4-aca2-6496ecea5a5c
-        Path: /units/01-mocking/02-vocabulary.md
+        UID: fa9f0ddc-1bfb-47a1-a873-d842ba187fb9
+        Path: /units/03-ts/01-unit-overview.md
         DefaultVisibility: hidden
       - Type: Checkpoint
-        UID: dc840f34-45c5-43e3-9969-cfbf9cb8064b
-        Path: /checkpoints/populatron.checkpoint.md
+        UID: 0cee315a-4c6c-4234-b552-87fae5b3620a
+        Path: /checkpoints/vendingMachine.md
         Autoscore: false
   - Title: Object Oriented Programming
     UID: ab05dce4-0586-4f9b-911a-75bd6a635ce8
@@ -79,20 +74,25 @@ Standards:
         UID: 021ae0e6-c2ab-4a06-962c-35bb6a6f8ea1
         Path: /checkpoints/mortgageLender.checkpoint.md
         Autoscore: false
-  - Title: Typescript Exercises 
-    UID: f9ae3522-2620-4809-ac3f-c0f8eee50ee0
-    Description: Exercises to practice your TS skills
+  - Title: Mocking and Test Fakes
+    UID: a53d3c40-4f5e-43ba-b2a0-c0ac189245ec
+    Description: Setting up data and objects in your typescript tests.
     SuccessCriteria:
-      - Get better!
+      - Mock functions using jest
+      - Inject test mocks using constructor injection
     ContentFiles:
-      # - Type: Lesson
-      #   UID: [unique-id (option-command-G from uuidgen plugin)]
-      #   Path: /folder/file.md
-      - Type: Lesson
-        UID: fa9f0ddc-1bfb-47a1-a873-d842ba187fb9
-        Path: /units/03-ts/01-unit-overview.md
+      - Type: Instructor
+        UID: b59f74f6-6251-4b56-80b4-3479b7c2abf6
+        Path: /units/01-mocking/00-readme.md
+      - Type: Instructor
+        UID: 4fd3bd55-0d1d-45b5-ae11-6dbacd662e7f
+        Path: /units/01-mocking/lesson-plans/lesson-plan.md
         DefaultVisibility: hidden
-      - Type: Checkpoint
-        UID: 0cee315a-4c6c-4234-b552-87fae5b3620a
-        Path: /checkpoints/vendingMachine.md
-        Autoscore: false
+      - Type: Lesson
+        UID: f2e410ed-2f09-4e90-9779-01f55c1c54a7
+        Path: /units/01-mocking/01-unit-overview.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: af7f1960-7732-4fb4-aca2-6496ecea5a5c
+        Path: /units/01-mocking/02-vocabulary.md
+        DefaultVisibility: hidden
