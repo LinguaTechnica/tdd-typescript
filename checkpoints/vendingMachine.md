@@ -11,7 +11,9 @@
 
 ##### !question
 
-Build a simple Vending Machine app. 
+Build a simple Vending Machine app. Customers can insert money, buy snacks and receive change. Here's an example of how it should work:
+
+![machine demo](../assets/vendingMachine_demo.gif)
 
 ## Instructions
 
@@ -22,6 +24,8 @@ Build a simple Vending Machine app.
 It's good practice to commit your code after each green test. Make sure you add a brief, but informative commit message.
 
 **Tips**
+
+After writing a failing test first ...
 
 - Write the **simplest** code needed to make the test pass. 
 - Refactor: 
