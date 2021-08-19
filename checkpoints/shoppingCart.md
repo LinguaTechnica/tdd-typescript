@@ -8,8 +8,6 @@
 * type: project
 * id: 0ce9c4d9-c962-485d-ba3b-9a533369616f
 * title: Submit Your Work
-* points: 1
-* topics: typescript
 
 ##### !question
 

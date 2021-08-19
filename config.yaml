@@ -1,6 +1,6 @@
 Title: Typescript
 Standards:
-  - Title: TDD Fundamentals
+  - Title: XP Fundamentals
     UID: 784ff209-114b-48b5-bf63-f937ed88ea1d
     Description: Getting started with testing in Typescript.
     SuccessCriteria:
@@ -8,7 +8,7 @@ Standards:
       - Use tests to solve simple problems
     ContentFiles:
       - Type: Instructor
-        UID: 78c10303-76e3-4920-9bf1-006326bc1523
+        UID: 78c10103-76e3-4920-9bf1-006326bc1523
         Path: /units/00-intro/00-readme.md
       - Type: Instructor
         UID: 3610142d-7b76-4dc2-8462-70eccb24c8e4
@@ -23,76 +23,76 @@ Standards:
         Path: /units/00-intro/02-vocabulary.md
         DefaultVisibility: hidden
       - Type: Checkpoint
-        UID: 25b0ea4a-1fe9-44a4-b7e3-569d1382eb73
-        Path: /checkpoints/tdd.checkpoint.md
+        UID: c724cfb8-60e2-458b-b65b-369e53b2f235
+        Path: /checkpoints/dataStructures.md
         Autoscore: false
-  - Title: Typescript Exercises 
+  - Title: Intro to Typescript 
     UID: f9ae3522-2620-4809-ac3f-c0f8eee50ee0
-    Description: Exercises to practice your TS skills
+    Description: Practice your typescript.
     SuccessCriteria:
       - Understand web applications
     ContentFiles:
       - Type: Instructor
         UID: f25b759f-1c82-4bd2-b583-df35cb406933
-        Path: /units/03-ts/00-readme.md
+        Path: /units/01-ts/00-readme.md
       - Type: Instructor
         UID: 3aae6c25-5b45-4e8e-9d3b-eae07d2d6b28
-        Path: /units/03-ts/lesson-plans/lesson-plan.md
+        Path: /units/01-ts/lesson-plans/lesson-plan.md
         DefaultVisibility: hidden
       - Type: Lesson
         UID: fa9f0ddc-1bfb-47a1-a873-d842ba187fb9
-        Path: /units/03-ts/01-unit-overview.md
+        Path: /units/01-ts/01-unit-overview.md
         DefaultVisibility: hidden
       - Type: Checkpoint
         UID: 0cee315a-4c6c-4234-b552-87fae5b3620a
-        Path: /checkpoints/vendingMachine.md
+        Path: /checkpoints/shoppingCart.md
         Autoscore: false
-  - Title: Object Oriented Programming
+  - Title: Typescript Applications
     UID: ab05dce4-0586-4f9b-911a-75bd6a635ce8
-    Description: Fundamentals of OOP
+    Description: Building applications with Typescript
     SuccessCriteria:
-      - Build classes
-      - Use interfaces
+      - Build an app
+      - Design user interface
+      - Integrate 
     ContentFiles:
       - Type: Instructor
-        UID: ac0eede7-421a-481b-963d-d181fbbf3909
-        Path: /units/02-oop/00-readme.md
+        UID: 8d3d6983-c84a-43c4-abe6-d11a3211f33e
+        Path: /units/02-apps/lesson-plans/lesson-plan.md
+      - Type: Lesson
+        UID: 3fb94df4-822a-43ca-987f-f3dd875600a2
+        Path: /units/02-apps/00-app.md
         DefaultVisibility: hidden
-      - Type: Instructor
+      - Type: Lesson
         UID: 75bf0974-f871-4c6f-8363-1ee914a550c2
-        Path: /units/02-oop/lesson-plans/lesson-plan.md
+        Path: /units/02-apps/01-ui.md
         DefaultVisibility: hidden
       - Type: Lesson
         UID: 7cdfafed-f428-4451-afc4-607fe17a99d7
-        Path: /units/02-oop/01-unit-overview.md
-        DefaultVisibility: hidden
-      - Type: Lesson
-        UID: 4c794ce6-b1fd-4890-be31-2ee02fc2d1d4
-        Path: /units/02-oop/02-vocabulary.md
+        Path: /units/02-apps/02-api_integration.md
         DefaultVisibility: hidden
       - Type: Checkpoint
-        UID: 021ae0e6-c2ab-4a06-962c-35bb6a6f8ea1
-        Path: /checkpoints/mortgageLender.checkpoint.md
-        Autoscore: false
-  - Title: Mocking and Test Fakes
+        UID: f13e771a-9be2-4e40-82ed-aed8e766996e
+        Path: /checkpoints/vendingMachine.md
+        DefaultVisibility: hidden
+  - Title: Mortgage Lender
     UID: a53d3c40-4f5e-43ba-b2a0-c0ac189245ec
     Description: Setting up data and objects in your typescript tests.
     SuccessCriteria:
-      - Mock functions using jest
-      - Inject test mocks using constructor injection
+      - TDD
+      - Typescript
     ContentFiles:
       - Type: Instructor
         UID: b59f74f6-6251-4b56-80b4-3479b7c2abf6
-        Path: /units/01-mocking/00-readme.md
+        Path: /units/03-testing/00-readme.md
       - Type: Instructor
         UID: 4fd3bd55-0d1d-45b5-ae11-6dbacd662e7f
-        Path: /units/01-mocking/lesson-plans/lesson-plan.md
+        Path: /units/03-testing/lesson-plans/lesson-plan.md
         DefaultVisibility: hidden
       - Type: Lesson
         UID: f2e410ed-2f09-4e90-9779-01f55c1c54a7
-        Path: /units/01-mocking/01-unit-overview.md
+        Path: /units/03-testing/01-unit-overview.md
         DefaultVisibility: hidden
       - Type: Lesson
         UID: af7f1960-7732-4fb4-aca2-6496ecea5a5c
-        Path: /units/01-mocking/02-vocabulary.md
+        Path: /units/03-testing/02-vocabulary.md
         DefaultVisibility: hidden

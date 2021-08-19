@@ -1,7 +1,0 @@
-# Vocabulary
-
-- **Class:** 
-
-- **Constructor:** 
-
-- **Interface** 
