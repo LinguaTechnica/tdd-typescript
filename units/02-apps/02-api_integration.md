@@ -77,8 +77,11 @@ Some less obvious options of note:
 
 - `noEmit`: determines whether new files will be generated or not. 
 - `sourceMap`: map files help your app find the original source code from your minified JS.
+- `files`: An array of files you want the compiler to compile.
 
 Source maps in particular are important to understand, so be sure to take a look at the [MDN guide](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map).
+
+To keep things simple, our file is configured to only compile 1 file: `src/index.ts`. This is a common practice: it allows you to write your integration script in 1 file while importing all the others that you need to use. Imported files are automatically compiled with it. For example, if `VendingMachine.ts` was imported in the `index.ts` file, compiling the latter will also compile the former, since it's required for the module to work.
 
 Feel free to add and edit the `tsconfig.json` to see how the different options work. But be sure you're commiting your code frequently in case you break something!
 

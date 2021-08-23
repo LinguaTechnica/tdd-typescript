@@ -1,10 +1,10 @@
 Title: Typescript
 Standards:
-  - Title: XP Fundamentals
+  - Title: Typescript Fundamentals
     UID: 784ff209-114b-48b5-bf63-f937ed88ea1d
     Description: Getting started with testing in Typescript.
     SuccessCriteria:
-      - Understand Typescript fundamentals
+      - Understand XP fundamentals
       - Use tests to solve simple problems
     ContentFiles:
       - Type: Instructor
@@ -26,11 +26,12 @@ Standards:
         UID: c724cfb8-60e2-458b-b65b-369e53b2f235
         Path: /checkpoints/dataStructures.md
         Autoscore: false
-  - Title: Intro to Typescript 
+  - Title: Intro to TDD 
     UID: f9ae3522-2620-4809-ac3f-c0f8eee50ee0
-    Description: Practice your typescript.
+    Description: Practice testing your typescript.
     SuccessCriteria:
-      - Understand web applications
+      - Write a test
+      - Understand the test cycle
     ContentFiles:
       - Type: Instructor
         UID: f25b759f-1c82-4bd2-b583-df35cb406933
@@ -73,6 +74,7 @@ Standards:
       - Type: Checkpoint
         UID: f13e771a-9be2-4e40-82ed-aed8e766996e
         Path: /checkpoints/vendingMachine.md
+        Autoscore: false
         DefaultVisibility: hidden
   - Title: Mortgage Lender
     UID: a53d3c40-4f5e-43ba-b2a0-c0ac189245ec
@@ -95,4 +97,9 @@ Standards:
       - Type: Lesson
         UID: af7f1960-7732-4fb4-aca2-6496ecea5a5c
         Path: /units/03-testing/02-vocabulary.md
+        DefaultVisibility: hidden
+      - Type: Checkpoint
+        UID: d396d704-5f4a-4b6d-991b-f2f503ee8c74
+        Path: /checkpoints/mortgageLender.md
+        Autoscore: false
         DefaultVisibility: hidden
