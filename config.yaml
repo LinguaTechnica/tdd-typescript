@@ -44,6 +44,10 @@ Standards:
         UID: fa9f0ddc-1bfb-47a1-a873-d842ba187fb9
         Path: /units/01-ts/01-unit-overview.md
         DefaultVisibility: hidden
+      - Type: Lesson
+        UID: fb191d42-ff2a-416c-bf02-06a17b467661
+        Path: /units/01-ts/03-js.md
+        DefaultVisibility: hidden
       - Type: Checkpoint
         UID: 0cee315a-4c6c-4234-b552-87fae5b3620a
         Path: /checkpoints/shoppingCart.md
