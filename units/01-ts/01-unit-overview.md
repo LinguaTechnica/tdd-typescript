@@ -17,3 +17,4 @@ In this unit you will learn:
 Use these resources if you feel the need for extra study!
 
 - [Typescript Exercises](https://github.com/type-challenges/type-challenges)
+- [Jest Documentation](https://jestjs.io/docs/using-matchers)
