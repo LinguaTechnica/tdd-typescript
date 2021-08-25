@@ -2,7 +2,7 @@
 
 Build a simple Vending Machine app! Customers can insert money, buy snacks and receive change. Here's an example of how it wil work from the customers point of view:
 
-![machine demo](../assets/vendingMachine_demo.gif)
+![machine demo](../../assets/vendingMachine_demo.gif)
 
 All images and item data are provided for you, and your application is configured. Your task is to use TDD to develop the Vending Machine application. 
 
