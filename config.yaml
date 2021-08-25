@@ -65,7 +65,7 @@ Standards:
         Path: /units/02-apps/lesson-plans/lesson-plan.md
       - Type: Lesson
         UID: a4cf0621-2c81-46d8-b21b-07ab14638661
-        Path: /units/02-apps/0_unit_overview.md
+        Path: /units/02-apps/0_unit-overview.md
       - Type: Lesson
         UID: 3fb94df4-822a-43ca-987f-f3dd875600a2
         Path: /units/02-apps/00-app.md
