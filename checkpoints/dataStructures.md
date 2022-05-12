@@ -6,6 +6,8 @@
 * type: project
 * id: 2b1c1c81-2b19-448c-a2b8-cafa9705b7e0
 * title: Submit Your Work
+* topics: typescript
+* points: 5
 
 ##### !question
 

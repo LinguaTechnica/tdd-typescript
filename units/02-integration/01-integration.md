@@ -1,4 +1,4 @@
-# Part 3: Integration
+# Vending Machine Integration
 
 You should have completed Parts 1 and 2 before proceeding to this section.
 
@@ -151,4 +151,3 @@ The event in this case has text data in the HTML element that we want to retriev
 ### !callout-info
 Remember: **Everthing** in the DOM is a string. Even the numbers!
 ### !end-callout
-

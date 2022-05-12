@@ -1,17 +1,18 @@
-# Vending Machine Web App
+# Vending Machine UI
 
 <!--BEGIN CHALLENGE-->
 
 ### !challenge
 
 * type: project
-* id: aad7fc63-50ef-4ed0-ba6a-b4363ee70441
-* title: Submit Your Work
-* topics: typescript
+* id: 4be9c33e-9e94-4f4c-af07-5373b5e74fb1
+* title: Vending Machine UI
+* topics: html, css 
 * points: 5
 
 ##### !question
 
+<!--Your question text (can be regular **markdown**)-->
 1. Share the repo with your group. Each person should submit the same link!
 1. Submit your work.
 
@@ -21,7 +22,7 @@
 
 ##### !placeholder
 
-Your repo link goes here!
+<!--Placeholder text-->
 
 ##### !end-placeholder
 

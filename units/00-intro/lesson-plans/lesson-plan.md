@@ -3,21 +3,20 @@
 This unit covers a lot of shallow ground by introducing Typescript within an XP framework. 
 This first week has a lot of shallow ground to cover, starting with XP and key practices. Please review the [unit plan on the shared drive](https://docs.google.com/document/d/1mUDnKEH063gkWQMWIiXrJU7oKQRwftckSHRdr6y05l4/edit).
 
-## Overview
+## Unit Overview
 
-The goal is to ensure learners can write basic typescript to use it for developing Angular applications. 
+The goal is to ensure learners can write basic typescript to use it for developing Angular applications. Lesson plan goals:
 
-**XP Goals**
-- Test Cycle
+**XP**
+- Test cycle intro
 - Collaboration with pair programming
-- Unit tests and fakes (basics)
 
-**Typescript Goals**
+**Typescript Fundamentals**
 - Static types and syntax 
 - Modules and imports/exports
 - Classes and accessors
 
-**Tools**
+**Tool Management**
 - Getting VS Code setup 
 - Using the debugger
 - Browser tools 
@@ -30,7 +29,7 @@ A good part of this week will focus on getting learners comfortable with:
 * XP: pair programming and tdd 
 * Dev Tools: browser and VS Code/Webstorm
 
-The exercises laid out for this week wiill combine with one of the above topics each day to set a strong foundation for their expected workflow the following week. Habits established here set instructor expectations of how learners should perform throughout the course. 
+The exercises laid out for this week will combine with one of the above topics each day to set a strong foundation for their expected workflow the following week. Habits established here set instructor expectations of how learners should perform throughout the course. 
 
 ## Exercises
 
@@ -78,18 +77,17 @@ Keys:
 
 ### Vending Machine
 
-This is a longer lesson that should take up approximately 1 full day of instruction. Learners must implement HTML, CSS and Javascript to build an interactive vending machine. Altogether there are 3 parts: 
+This is a longer lesson that should take up approximately 2-3 days of instruction. Learners must implement HTML, CSS and Javascript to build an interactive vending machine. Altogether there are 3 parts: 
 
 1. The typescript app code by following the stories/AC. 
 2. The UI (HTML/CSS)
 3. A simple script to connect the UI with the app (DOM).
 
-The exercise starts with the app, using TDD to create the core functionality. This can be followed up by next implementing the UI. The goal is simple: if their orginal app really works, then it can be used to display the data on the DOM. 
+The exercise starts with the app, using TDD to create the core functionality. This is followed up by implementing the UI. The goal is simple: if their orginal app really works, then it can be used to display the data on the DOM. 
 
 Keys:
 - Typescript compilation and configuration
 - The DOM 
-- Ancillary lessons: interfaces, classes, SOLID
 
 ### Bowling Kata
 

@@ -52,9 +52,9 @@ Standards:
         UID: 0cee315a-4c6c-4234-b552-87fae5b3620a
         Path: /checkpoints/shoppingCart.md
         Autoscore: false
-  - Title: Typescript Applications
+  - Title: Typescript Applications I
     UID: ab05dce4-0586-4f9b-911a-75bd6a635ce8
-    Description: Building applications with Typescript
+    Description: Start to build a vending machine app using TDD.
     SuccessCriteria:
       - Build an app
       - Design user interface
@@ -65,22 +65,71 @@ Standards:
         Path: /units/02-apps/lesson-plans/lesson-plan.md
       - Type: Lesson
         UID: a4cf0621-2c81-46d8-b21b-07ab14638661
-        Path: /units/02-apps/0_unit-overview.md
+        Path: /units/02-apps/00-unit-overview.md
       - Type: Lesson
         UID: 3fb94df4-822a-43ca-987f-f3dd875600a2
-        Path: /units/02-apps/00-app.md
+        Path: /units/02-apps/01-app.md
         DefaultVisibility: hidden
       - Type: Lesson
-        UID: 75bf0974-f871-4c6f-8363-1ee914a550c2
-        Path: /units/02-apps/01-ui.md
-        DefaultVisibility: hidden
-      - Type: Lesson
-        UID: 7cdfafed-f428-4451-afc4-607fe17a99d7
-        Path: /units/02-apps/02-api_integration.md
+        UID: ced0377e-4095-40d3-bd20-47006c4f67ee
+        Path: /units/02-apps/02-vocabulary.md
         DefaultVisibility: hidden
       - Type: Checkpoint
         UID: f13e771a-9be2-4e40-82ed-aed8e766996e
         Path: /checkpoints/vendingMachine.md
+        Autoscore: false
+        DefaultVisibility: hidden
+  - Title: Typescript Applications II 
+    UID: 835e9f48-eeee-4d0b-9cbe-3f6f7c970186
+    Description: Build a UI for the vending machine using HTML and CSS 
+    SuccessCriteria:
+      - Create HTML layouts
+      - Apply CSS to create designs
+    ContentFiles:
+      - Type: Instructor
+        UID: 97257325-b0be-4354-99ca-8c30a39c7c46
+        Path: /units/02-html/lesson-plans/lesson-plan.md
+      - Type: Lesson
+        UID: 2e92d2a8-a396-4dff-ab9c-174fdad14d3a
+        Path: /units/02-html/00-unit-overview.md
+      - Type: Lesson
+        UID: bbdb8bef-c3d0-4a3f-b1e8-53dd524716b0
+        Path: /units/02-html/01-ui.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 9679dbbe-06ad-4cdb-a0ba-3be456576532
+        Path: /units/02-html/02-vocabulary.md
+        DefaultVisibility: hidden
+      - Type: Checkpoint
+        UID: c35c3b02-5385-4580-994f-1b072c7ff4e1
+        Path: /checkpoints/vm-html.md
+        Autoscore: false
+        DefaultVisibility: hidden
+  - Title: Typescript Applications III 
+    UID: 3e42e301-374e-4587-a80c-2fee44af72b3
+    Description: Integrate the vending machine app with the UI. 
+    SuccessCriteria:
+      - Create an integration script
+      - Manipulate the DOM using typescript 
+      - Use tsc CLI and webpack to compile files
+    ContentFiles:
+      - Type: Instructor
+        UID: 7f79c824-9217-48a9-9d88-fd7fadd01b52
+        Path: /units/02-integration/lesson-plans/lesson-plan.md
+      - Type: Lesson
+        UID: fb568bb6-c100-4ac0-8578-60b7cf18ad46
+        Path: /units/02-integration/00-unit-overview.md
+      - Type: Lesson
+        UID: 0be449e2-59e1-403a-96b5-28617bf97f4f
+        Path: /units/02-integration/01-integration.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: a6383e4d-aac6-47e0-bfc7-e1305f7ef5ab
+        Path: /units/02-integration/02-vocabulary.md
+        DefaultVisibility: hidden
+      - Type: Checkpoint
+        UID: 182dbfd7-2402-4c6d-a1da-d9d29a383064
+        Path: /checkpoints/vm-integration.md
         Autoscore: false
         DefaultVisibility: hidden
   - Title: Mortgage Lender
