@@ -19,7 +19,7 @@ For this section, you won't need to write any tests. Your task is to:
 
 1. Use Typescript to make the UI interactive.
 2. Compile your TS to JS and import it into your HTML file. 
-3. Use this item data: [Vending Machine Snacks @ Github Gist](https://gist.github.com/Protosac/ac091a6734589468335146b6fefde6e2)
+3. Use this item data: [Vending Machine Snacks @ Github Gist](https://gist.github.com/mosdevly/ac091a6734589468335146b6fefde6e2)
 
 ## Compilation 
 
